@@ -12,6 +12,7 @@
   "overrides": {
     "string-width": "4.2.3"
 },
+
   "devDependencies": {
     "@sveltejs/adapter-auto": "^3.0.0",
     "@sveltejs/kit": "^2.0.0",
